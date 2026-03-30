@@ -5185,3 +5185,6 @@ z-index: 15;
 .logo-light{
   padding-top:10px; ;
 }
+.logo-dark{
+  padding-left: 0px !important;
+}
